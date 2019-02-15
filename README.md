@@ -1,7 +1,4 @@
 # Locus-Codejam-2019
-This repo contains well commented python and C solutions for the problems of LOCUS Codejam 2019 Begineer Level, organiesd by Pulchowk Campus.
-
-> The problems were taken from [Codeforces](https://codeforces.com).
 
 **Problems:**
 
